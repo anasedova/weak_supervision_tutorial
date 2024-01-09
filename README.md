@@ -72,10 +72,10 @@ Now you can access all jupyter notebooks that we are going to use today. Have fu
 ---
 ## Created by
 
-- [Benjamin Roth](http://benjaminroth.net/)
-- [Vasiliki Kougia](https://dm.cs.univie.ac.at/team/person/117900/)
 - [Anastasiia Sedova](https://anasedova.github.io)
 - [Andreas Stephan](https://andst.github.io)
+- [Vasiliki Kougia](https://dm.cs.univie.ac.at/team/person/117900/)
+- [Benjamin Roth](http://benjaminroth.net/)
 
 <img src="img/Uni_Logo_2016.jpg" width="300"/>
 
