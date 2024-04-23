@@ -70,6 +70,11 @@ pip3 install -r requirements.txt
 ```
 jupyter notebook 
 ```
+6.  add kernel to the jupyter notebook (within the virtual environment)
+```
+pip install ipykernel
+python -m ipykernel install --user --name=<the name of your environment>
+```
 
 Now you can access all jupyter notebooks that we are going to use today. Have fun!
 
