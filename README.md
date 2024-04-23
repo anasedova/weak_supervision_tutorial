@@ -2,7 +2,10 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-This repo contains the material for the practical part of the one-day tutorial on weak supervision to be hold in Aalborg University Copenhagen, at 29.09.2023. 
+This repo contains the material for the practical part of the one-day tutorial on weak supervision.
+
+- University of Munich, 26.04.2023
+- Aalborg University Copenhagen, 29.09.2023
 
 ---
 ## Content 
@@ -27,12 +30,13 @@ In order to be able to work on the tutorials, you need to have all the necessary
 We recommend to use Conda environment. 
 For that, please do the following: 
 
+0. Make sure you have Python 3.8 installed on your laptop. 
 1. Clone/download this GitHub repo
 2. Create a new Conda environment:
 
 ```
 # go to the tutorials directory 
-cd weak_supervision_workshop
+cd weak_supervision_tutorial
 ```
 
 Install the Conda library with pip:
@@ -65,6 +69,11 @@ pip3 install -r requirements.txt
 5. launch the jupyter notebook from the activated virtual environment
 ```
 jupyter notebook 
+```
+6.  add kernel to the jupyter notebook (within the virtual environment)
+```
+pip install ipykernel
+python -m ipykernel install --user --name=<the name of your environment>
 ```
 
 Now you can access all jupyter notebooks that we are going to use today. Have fun!
